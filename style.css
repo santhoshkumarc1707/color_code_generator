@@ -1,0 +1,27 @@
+html{
+  background-image: url(colorful-stingrays.svg);
+}
+#color {
+  width: 13em;
+  height: 8em;
+}
+
+
+h4, p {
+   text-align: center;
+}
+.c{
+  border: 1px solid black;
+  background-color: rgb(234, 243, 243);
+  padding: 10px 10px 10px 10px;
+  
+}
+
+.container {
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
